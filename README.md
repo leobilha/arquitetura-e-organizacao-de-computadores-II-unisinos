@@ -1,7 +1,7 @@
 # arquitetura-e-organizacao-de-computadores-II-unisinos
 Trabalhos e exercícios da cardeira de Arquitetura e Organização de Computadores na Unisinos
 
-# Software Usados
+# Softwares Usado
 
 Link para o Logisim: http://www.cburch.com/logisim/pt/index.html 
 
