@@ -1,4 +1,4 @@
-# arquitetura-e-organizacao-de-computadores-II-unisinos
+# Arquitetura e Organizacao de Computadores II Unisinos
 Trabalhos e exercícios da cardeira de Arquitetura e Organização de Computadores na Unisinos
 
 # Softwares Usado
